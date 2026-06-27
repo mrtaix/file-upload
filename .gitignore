@@ -1,0 +1,13 @@
+# Local files
+files/
+*.log
+.DS_Store
+*.tmp
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# System
+Thumbs.db
